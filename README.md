@@ -217,6 +217,8 @@ github repo
 * Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
+* Damon Nyhan, [anovacap](https://github.com/anovacap) | [@anovacap](https://twitter.com/anovacap) | [damon.nyhan@gmail.com](damon.nyhan@gmail.com)
+* Anne-Sophie Le Bloas, [aslebloas](https://github.com/aslebloas) | [@anneso_special](https://twitter.com/anneso_special) | [aslebloas@gmail.com](aslebloas@gmail.com)
 
 ## License
 
