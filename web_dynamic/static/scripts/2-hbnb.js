@@ -17,5 +17,7 @@ $(document).ready(function () {
   if (apiCall.statusText === 'OK') {
     console.log(apiCall);
     $('#api_status').addClass('available');
+  } else {
+    $('#api_status').removeClass('available');
   }
 });
