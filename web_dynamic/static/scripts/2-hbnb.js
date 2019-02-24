@@ -1,4 +1,6 @@
+const apiCall = $.ajax('http://0.0.0.0:5001/api/v1/status/');
 let listOfAmenities = {};
+
 $(document).ready(function () {
   $('input:checkbox').on('change', function () {
     if (this.checked) {
@@ -11,4 +13,9 @@ $(document).ready(function () {
   });
 
   $('.amenities').find('h4').css({ 'text-overflow': 'ellipsis', 'white-space': 'nowrap', 'overflow': 'hidden' });
+
+  if (apiCall.statusText === 'OK') {
+    console.log(apiCall);
+    $('#api_status').addClass('available');
+  }
 });
